@@ -1,6 +1,6 @@
 /*h5a1 Dark Theme by Rafael De Jongh - www.RafaelDeJongh.com*/
 #mainrow,#topbar,#content,#view .item,#sidebar{background-color:#1d1f21}
-#tree a,#tree a:active,#tree a.visited,#root,input,select,#crumbbar a,#crumbbar a:active,#crumbbar a:visited,#backlink,#backlink:active,#backlink:visited{color:#e9e9e9}
+#tree a,#tree a:active,#tree a.visited,#root,input,select,#crumbbar a,#crumbbar a:active,#crumbbar a:visited,#backlink,#backlink:active,#backlink:visited,#content-header,#content-footer{color:#e9e9e9}
 #tree a:hover,#tree a:active:hover,#tree a.visited:hover{color:#fff}
 #view.view-details .item{border-bottom:1px solid #343638}
 #view .item:hover{background:#343638;color:#fff}
